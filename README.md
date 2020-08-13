@@ -33,7 +33,7 @@ Meu nome é Brendo, Sou Desenvolvedor Back-End e a pouco tempo iniciei meus estu
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrendoSPinheiro&theme=tokyonight"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username=BrendoSPinheiro&theme=tokyonight&show_icons=true"></img>
 </p>
 
 
