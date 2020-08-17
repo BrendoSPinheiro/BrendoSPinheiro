@@ -6,7 +6,7 @@
 
 Meu nome é Brendo, Sou Desenvolvedor Back-End e a pouco tempo iniciei meus estudos na Stack Js visando me tornar um desenvolvedor FullStack. Me dedico e estudo diariamente com muito foco e empenho para aprender mais e mais das tecnologias do meu dia-a-dia.
 
-- 👨‍🎓 5° semestre de Análise e Desenvolvimento de Sistemas @UCSAL
+- 👨‍🎓 5° semestre de Análise e Desenvolvimento de Sistemas @ UCSAL
 - 💢 Foco em desenvolvimento web e mobile
 - 🤖 Fascinado por novas tecnologias e automação
 - 📚 Estudando no momento a **Stack Js** através do curso **DevBoost** com o **Mateus Silva** e javascript na **Origamid** juntamente com fóruns, documentações e comunidades
