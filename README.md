@@ -13,6 +13,15 @@ Meu nome é Brendo, Sou Desenvolvedor Back-End e a pouco tempo iniciei meus estu
 
 ---
 
+### 🚀 Meus objetivos:
+
+- Melhorar ainda mais na área que sou apaixonado
+- Me especializar na Stack JS
+- Me tornar fluente em inglês
+- Contribuir ainda mais com a comunidade de tecnologia
+
+---
+
 ### 🖥 Tecnologias e Ferramentas
 
 <code><img src="https://icongr.am/devicon/php-original.svg?size=31&color=currentColor"></code>
