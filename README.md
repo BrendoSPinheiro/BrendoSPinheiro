@@ -24,9 +24,10 @@ Meu nome é Brendo, Sou Desenvolvedor Back-End e a pouco tempo iniciei meus estu
 
 ### 🖥 Tecnologias e Ferramentas
 
-<code><img src="https://icongr.am/devicon/php-original.svg?size=31&color=currentColor"></code>
 <code><img src="https://icongr.am/devicon/javascript-original.svg?size=31&color=currentColor"></code>
 <code><img src="https://icongr.am/devicon/nodejs-original.svg?size=31&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/react-original-wordmark.svg?size=31&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/php-original.svg?size=31&color=currentColor"></code>
 <code><img src="https://icongr.am/devicon/npm-original-wordmark.svg?size=31&color=currentColor"></code>
 <code><img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=31&color=currentColor"></code>
 <code><img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=31&color=currentColor"></code>
