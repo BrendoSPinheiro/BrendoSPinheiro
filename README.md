@@ -4,12 +4,12 @@
 
 ### 📝 Sobre mim
 
-Meu nome é Brendo, Sou Desenvolvedor Back-End e a pouco tempo iniciei meus estudos na Stack Js visando me tornar um desenvolvedor FullStack. Me dedico e estudo diariamente com muito foco e empenho para aprender mais e mais das tecnologias do meu dia-a-dia.
+Meu nome é Brendo, sou desenvolvedor Back-End e em junho iniciei meus estudos na Stack Js visando me tornar um desenvolvedor FullStack. Sou autodidata e venho me dedicando e estudando diariamente com muito foco e empenho para aprender e me especializar mais e mais nas tecnologias do meu dia-a-dia.
 
 - 👨‍🎓 5° semestre de Análise e Desenvolvimento de Sistemas @ [UCSAL](https://www.ucsal.br/)
 - 💢 Foco em desenvolvimento web e mobile
 - 🤖 Fascinado por novas tecnologias e automação
-- 📚 Estudando no momento a **Stack Js** através do curso **DevBoost** com o **Mateus Silva** e javascript na **Origamid** juntamente com fóruns, documentações e comunidades
+- 📚 Estudando no momento a **Stack Js** através do curso **JStack** com o **Mateus Silva** e javascript na **Origamid** juntamente com fóruns, documentações e comunidades
 
 ---
 
@@ -38,7 +38,6 @@ Meu nome é Brendo, Sou Desenvolvedor Back-End e a pouco tempo iniciei meus estu
 ---
 
 ### 🤝 Conecte-se comigo:
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/BrendoSPinheiro)](https://github.com/BrendoSPinheiro)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brendo-souza-pinheiro)](https://www.linkedin.com/in/brendo-souza-pinheiro)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brendo.spinheiro@gmail.com)](mailto:brendo.spinheiro@gmail.com)
 
