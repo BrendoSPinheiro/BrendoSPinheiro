@@ -3,8 +3,10 @@
 ---
 
 ### 📝 Sobre mim
+Olá! me chamo Brendo Souza, tenho 21 anos, sou graduado em Análise e desenvolvimento de sistemas e atuo como desenvolvedor fullstack na Going2 Corporation.
 
-Meu nome é Brendo, sou desenvolvedor Back-End e em junho iniciei meus estudos na Stack Js visando me tornar um desenvolvedor FullStack. Sou autodidata e venho me dedicando e estudando diariamente com muito foco e empenho para aprender e me especializar mais e mais nas tecnologias do meu dia-a-dia.
+Autodidata há mais de 3 anos, sempre fui curioso para entender como as coisas funcionavam. Me interessei pelo desenvolvimento web e mobile e com o tempo e muito estudo, venho desenvolvendo minhas habilidades na criação de softwares web e aplicações mobile com Javascript.
+Hoje, com todo o ecossistema javascript e meu atual foco no desenvolvimento Front-end, venho me especializando na stack Node, React e React Native por conta do grande poder que estas tecnologias tem, principalmente quando combinadas, comunidade ativa e seu constante crescimento com o passar dos anos.
 
 - 👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas @ [UCSAL](https://www.ucsal.br/)
 - 💢 Foco em desenvolvimento web e mobile
