@@ -18,7 +18,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![k6](https://img.shields.io/badge/k6-%23000000.svg?style=for-the-badge&logo=k6&logoColor=white)
+![k6](https://img.shields.io/badge/k6-%2525?style=for-the-badge&logo=k6&color=37353d)
 ![New Relic](https://img.shields.io/badge/newrelic-%23000?style=for-the-badge&logo=newrelic)
 ![Argo CD](https://img.shields.io/badge/argocd-%2525?style=for-the-badge&logo=argo&color=102633)
 
