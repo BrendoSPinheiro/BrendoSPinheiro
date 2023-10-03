@@ -1,7 +1,7 @@
 # 💫 About Me:
-🖥 I'm currently employed at Thoughtworks.
-🎓 I hold a Bachelor's degree in Systems Analysis and Development.
-👨🏽‍💻 I am currently deeply immersed in the study of Java and its extensive ecosystem, along with a strong focus on microservices architecture and cloud technologies.
+🖥 I'm currently employed at Thoughtworks.<br>
+🎓 I hold a Bachelor's degree in Systems Analysis and Development.<br>
+👨🏽‍💻 I am currently deeply immersed in the study of Java and its extensive ecosystem, along with a strong focus on microservices architecture and cloud technologies.<br>
 🧐 Feel free to ask me about programming, backend, frontend, software architecture, or anything related to computing, as I have a deep passion for these topics.
 
 # 🌐 Socials:
@@ -9,7 +9,7 @@
 
 # 🖥️ Tech Stack
 
-## Currently Using
+### Currently Using
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -24,7 +24,7 @@
 ![New Relic](https://img.shields.io/badge/newrelic-%23000?style=for-the-badge&logo=newrelic)
 ![Argo CD](https://img.shields.io/badge/argocd-%2525?style=for-the-badge&logo=argo&color=102633)
 
-## Other Technologies (Experience and Knowledge)
+### Other Technologies (Experience and Knowledge)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
