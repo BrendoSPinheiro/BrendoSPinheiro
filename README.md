@@ -1,11 +1,13 @@
 # 💫 About Me:
-🖥 I'm currently working on Thoughtworks<br><br>👨‍ Bachelor in Systems Analysis and Development<br><br>🗣 I'm looking for help with english<br><br>👨🏽‍💻 I'm currently learning NodeJS, Java, microservices, automated testing, observability<br><br>🧐 Ask me about programming, back-end, front-end, software architecture and anything related to computing, because I love those subjects
+🖥 I'm currently employed at Thoughtworks.
+🎓 I hold a Bachelor's degree in Systems Analysis and Development.
+👨🏽‍💻 I am currently deeply immersed in the study of Java and its extensive ecosystem, along with a strong focus on microservices architecture and cloud technologies.
+🧐 Feel free to ask me about programming, backend, frontend, software architecture, or anything related to computing, as I have a deep passion for these topics.
 
-
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/BrendoSouza#1746) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brendo-souza-pinheiro) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/brendospdev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@BrendospDev) 
 
-# Tech Stack
+# 🖥️ Tech Stack
 
 ## Currently Using
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
