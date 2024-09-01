@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥 I'm currently employed at Thoughtworks.<br>
+🖥 I'm currently employed at iFood.<br>
 🎓 I hold a Bachelor's degree in Systems Analysis and Development.<br>
 👨🏽‍💻 I am currently deeply immersed in the study of Java and its extensive ecosystem, along with a strong focus on microservices architecture and cloud technologies.<br>
 🧐 Feel free to ask me about programming, backend, frontend, software architecture, or anything related to computing, as I have a deep passion for these topics.
